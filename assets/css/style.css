@@ -37,6 +37,15 @@
 
 /*-------------------------------special paddings/margins/text*/
 
+html, body {
+    height: 100%;
+}
+
+body > footer {
+    position: sticky;
+    top: 100vh;
+}
+
 h1,h2,h3,h4 {
     margin: 0;
 }
