@@ -78,6 +78,10 @@ h1,h2,h3,h4 {
     float: none;
 }
 
+.padding-bottom {
+    padding-bottom: 30px;
+}
+
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
