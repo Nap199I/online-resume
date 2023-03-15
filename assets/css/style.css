@@ -39,6 +39,10 @@
     background-color: #525252;
 }
 
+.ui-menu-color-github {
+    background-color: #29496c;
+}
+
 /*-------------------------------special paddings/margins/text*/
 
 html, body {
